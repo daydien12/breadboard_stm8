@@ -1,26 +1,26 @@
-"D:\2020\thang_3\breadboard\Breadboad_Stm8\USER\tiny-json.c"
+"D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\USER\tiny-json.c"
 -std=c99
 -ferror-limit=0
 -fbracket-depth=512
 -MD
 -MF
-D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Obj\tiny-json.pbi.dep
+D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Obj\tiny-json.pbi.dep
 -o
 tiny-json.pbi
 -I
-D:\2020\thang_3\breadboard\Breadboad_Stm8\USER
+D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\USER
 -I
-D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\..\library
+D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\..\library
 -I
-D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\..\USER
+D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\..\USER
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\inc\c
 -I
-D:\2020\thang_3\breadboard\Breadboad_Stm8\library
+D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\library
 -I
-D:\2020\thang_3\breadboard\Breadboad_Stm8\USER
+D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\USER
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

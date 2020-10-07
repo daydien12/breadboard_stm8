@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\settings\breadboard_stm8.Debug.general.xcl" --backend -f "D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\settings\breadboard_stm8.Debug.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\settings\breadboard_stm8.Debug.general.xcl" --backend -f "D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\settings\breadboard_stm8.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\settings\breadboard_stm8.Debug.general.xcl" "--debug_file=%~1" --backend -f "D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\settings\breadboard_stm8.Debug.driver.xcl" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\common\bin\cspybat" -f "D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\settings\breadboard_stm8.Debug.general.xcl" "--debug_file=%~1" --backend -f "D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\settings\breadboard_stm8.Debug.driver.xcl" 
 
 @echo off 
 :end

@@ -1,27 +1,27 @@
 ###############################################################################
 #
-# IAR ELF Linker V3.11.1.207 for STM8                     07/Oct/2020  13:48:40
+# IAR ELF Linker V3.11.1.207 for STM8                     07/Oct/2020  13:52:30
 # Copyright 2010-2019 IAR Systems AB.
 #
 #    Output file  =  
-#        D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Exe\breadboard_stm8.out
+#        D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Exe\breadboard_stm8.out
 #    Map file     =  
-#        D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\List\breadboard_stm8.map
+#        D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\List\breadboard_stm8.map
 #    Command line =  
-#        -f C:\Users\QUANG_~1\AppData\Local\Temp\EW3DF1.tmp
-#        (D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Obj\Config_GPIO.o
-#        D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Obj\DELAY.o
-#        D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Obj\main.o
-#        D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Obj\stm8s_gpio.o
-#        D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Obj\stm8s_it.o
-#        D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Obj\SYS.o
-#        D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Obj\tiny-json.o
-#        D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Obj\uart.o
+#        -f C:\Users\QUANG_~1\AppData\Local\Temp\EWBA5A.tmp
+#        (D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Obj\Config_GPIO.o
+#        D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Obj\DELAY.o
+#        D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Obj\main.o
+#        D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Obj\stm8s_gpio.o
+#        D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Obj\stm8s_it.o
+#        D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Obj\SYS.o
+#        D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Obj\tiny-json.o
+#        D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Obj\uart.o
 #        --redirect _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb
 #        --no_out_extension -o
-#        D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Exe\breadboard_stm8.out
+#        D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Exe\breadboard_stm8.out
 #        --map
-#        D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\List\breadboard_stm8.map
+#        D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\List\breadboard_stm8.map
 #        --config "C:\Program Files (x86)\IAR Systems\Embedded Workbench
 #        8.3\stm8\config\lnkstm8s003f3.icf" --config_def _CSTACK_SIZE=0x100
 #        --config_def _HEAP_SIZE=0x100 --entry __iar_program_start --debug_lib)
@@ -245,7 +245,7 @@ Zero (__iar_zero_init2)
 
     Module                 ro code  ro data  rw data
     ------                 -------  -------  -------
-D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Obj: [1]
+D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Obj: [1]
     Config_GPIO.o              184
     DELAY.o                     55
     SYS.o                      483       14
@@ -496,7 +496,7 @@ trueValue               0x008820    0xe  Code  Lc  tiny-json.o [1]
 unconstchar             0x00892d   0x40  Code  Gb  tiny-json.o [1]
 
 
-[1] = D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\Debug\Obj
+[1] = D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\Debug\Obj
 [2] = command line
 [3] = dbgstm8smd.a
 [4] = dlstm8smn.a

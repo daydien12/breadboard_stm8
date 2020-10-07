@@ -1,10 +1,10 @@
 Config_GPIO.pbi: \
-  D:\2020\thang_3\breadboard\Breadboad_Stm8\USER\Config_GPIO.c \
-  D:\2020\thang_3\breadboard\Breadboad_Stm8\USER/Config_GPIO.h \
-  D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\..\library\stm8s_gpio.h \
-  D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\..\library/stm8s.h \
+  D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\USER\Config_GPIO.c \
+  D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\USER/Config_GPIO.h \
+  D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\..\library\stm8s_gpio.h \
+  D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\..\library/stm8s.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
-  D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\..\library/stm8s_conf.h \
-  D:\2020\thang_3\breadboard\Breadboad_Stm8\Project\..\library/stm8s_gpio.h \
-  D:\2020\thang_3\breadboard\Breadboad_Stm8\USER/Define.h \
-  D:\2020\thang_3\breadboard\Breadboad_Stm8\USER/DELAY.H
+  D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\..\library/stm8s_conf.h \
+  D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\Project\..\library/stm8s_gpio.h \
+  D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\USER/Define.h \
+  D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\USER/DELAY.H

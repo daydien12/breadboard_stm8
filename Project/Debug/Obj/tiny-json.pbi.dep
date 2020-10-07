@@ -1,4 +1,5 @@
-tiny-json.pbi: D:\2020\thang_3\breadboard\Breadboad_Stm8\USER\tiny-json.c \
+tiny-json.pbi: \
+  D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\USER\tiny-json.c \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\string.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
@@ -16,6 +17,6 @@ tiny-json.pbi: D:\2020\thang_3\breadboard\Breadboad_Stm8\USER\tiny-json.c \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xlocaleuse.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xlocale_c.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\wchar.h \
-  D:\2020\thang_3\breadboard\Breadboad_Stm8\USER/tiny-json.h \
+  D:\2020\thang_3\breadboard\Breadboad_Stm8\breadboard_stm8\USER/tiny-json.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stddef.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdbool.h

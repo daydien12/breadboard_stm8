@@ -12,6 +12,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm8s.h"
+extern char RRX[];
 void UART_Init(unsigned int select);
 void UART_Send_String(char *_varString);
 void UART_Send_Char(char _varChar);

@@ -20,6 +20,7 @@ rule browsedata
 
 
 #Build steps
+build tiny-json.pbi : index tiny-json.xcl
 build stm8s_gpio.pbi : index stm8s_gpio.xcl
 build stm8s_it.pbi : index stm8s_it.xcl
 build Config_GPIO.pbi : index Config_GPIO.xcl
@@ -27,9 +28,9 @@ build DELAY.pbi : index DELAY.xcl
 build main.pbi : index main.xcl
 build SYS.pbi : index SYS.xcl
 build uart.pbi : index uart.xcl
-build breadboard_stm8_part0.pbi : link stm8s_gpio.pbi stm8s_it.pbi Config_GPIO.pbi
-build breadboard_stm8_part1.pbi : link DELAY.pbi main.pbi SYS.pbi
-build breadboard_stm8_part2.pbi : link uart.pbi
+build breadboard_stm8_part0.pbi : link tiny-json.pbi stm8s_gpio.pbi stm8s_it.pbi
+build breadboard_stm8_part1.pbi : link Config_GPIO.pbi DELAY.pbi main.pbi
+build breadboard_stm8_part2.pbi : link SYS.pbi uart.pbi
 build breadboard_stm8.pbd : link breadboard_stm8_part0.pbi breadboard_stm8_part1.pbi breadboard_stm8_part2.pbi
 build breadboard_stm8.pbw : browsedata breadboard_stm8.pbd
 

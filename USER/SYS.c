@@ -16,35 +16,6 @@ void SYS_Run(void)
   long Number2 = Convert2Number(json_ReturnData(json, "L2"));
   long Number3 = Convert2Number(json_ReturnData(json, "L3"));
   long Number4 = Convert2Number(json_ReturnData(json, "L4"));
-/*
-  for (int i = 32; i >= 0; i--)
-  {
-    UART_Send_Char(((Number1 >> i) & 0x00000001) + 48);
-    Fn_Delayms(1);
-  }
-  UART_Send_String("\n");
-  
-  for (int i = 32; i >= 0; i--)
-  {
-    UART_Send_Char(((Number2 >> i) & 0x00000001) + 48);
-    Fn_Delayms(1);
-  }
-  UART_Send_String("\n");
-  
-  for (int i = 32; i >= 0; i--)
-  {
-    UART_Send_Char(((Number3 >> i) & 0x00000001) + 48);
-    Fn_Delayms(1);
-  }
-  UART_Send_String("\n");
-  
-  for (int i = 32; i >= 0; i--)
-  {
-    UART_Send_Char(((Number4 >> i) & 0x00000001) + 48);
-    Fn_Delayms(1);
-  }
-  UART_Send_String("\n");
-*/
   for (i = 32; i >= 0; i--)
   {
     IO_ControlData(GPIOC,DF_CPIND01,((Number1 >> i) & 0x00000001) );

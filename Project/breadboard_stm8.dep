@@ -74,6 +74,7 @@
             <file>$TOOLKIT_DIR$\lib\dlstm8smn.h</file>
             <file>$PROJ_DIR$\Debug\Obj\main.o</file>
             <file>$TOOLKIT_DIR$\lib\dlstm8smn.a</file>
+            <file>$PROJ_DIR$\..\..\USER\main.c</file>
         </outputs>
         <file>
             <name>$PROJ_DIR$\..\USER\Config_GPIO.c</name>

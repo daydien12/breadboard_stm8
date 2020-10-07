@@ -11,13 +11,12 @@ void SYS_Run(void)
 {
   int i = 0;
   json_t mem[32];
-  //char str1[] = "{\"L1\":\"f0000000\",\"L2\":\"0f000000\",\"L3\":\"00f00000\",\"L4\":\"000f0000\"}";
   json_t const* json = json_create( RRX, mem, sizeof mem / sizeof * mem );
   long Number1 = Convert2Number(json_ReturnData(json, "L1"));
   long Number2 = Convert2Number(json_ReturnData(json, "L2"));
   long Number3 = Convert2Number(json_ReturnData(json, "L3"));
   long Number4 = Convert2Number(json_ReturnData(json, "L4"));
-
+/*
   for (int i = 32; i >= 0; i--)
   {
     UART_Send_Char(((Number1 >> i) & 0x00000001) + 48);
@@ -45,7 +44,7 @@ void SYS_Run(void)
     Fn_Delayms(1);
   }
   UART_Send_String("\n");
-
+*/
   for (i = 32; i >= 0; i--)
   {
     IO_ControlData(GPIOC,DF_CPIND01,((Number1 >> i) & 0x00000001) );

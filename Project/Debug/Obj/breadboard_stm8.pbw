@@ -33229,258 +33229,6 @@
     "scope": null
   },
   {
-    "ID": "c:@F@Convert2Number",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "unsigned long Convert2Number(char *)",
-    "location": {
-      "column": "15",
-      "line": "3",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "Convert2Number",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@SYS_Init",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void SYS_Init(void)",
-    "location": {
-      "column": "6",
-      "line": "5",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "SYS_Init",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@SYS_Run",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void SYS_Run(void)",
-    "location": {
-      "column": "6",
-      "line": "10",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "SYS_Run",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@134@F@SYS_Run@i",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "i",
-    "location": {
-      "column": "7",
-      "line": "12",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "i",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@148@F@SYS_Run@mem",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "mem",
-    "location": {
-      "column": "10",
-      "line": "13",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "mem",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@271@F@SYS_Run@json",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "json",
-    "location": {
-      "column": "17",
-      "line": "15",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "json",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@347@F@SYS_Run@Number1",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "Number1",
-    "location": {
-      "column": "8",
-      "line": "16",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "Number1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@410@F@SYS_Run@Number2",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "Number2",
-    "location": {
-      "column": "8",
-      "line": "17",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "Number2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@473@F@SYS_Run@Number3",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "Number3",
-    "location": {
-      "column": "8",
-      "line": "18",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "Number3",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@536@F@SYS_Run@Number4",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "Number4",
-    "location": {
-      "column": "8",
-      "line": "19",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "Number4",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@606@F@SYS_Run@i",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "i",
-    "location": {
-      "column": "12",
-      "line": "21",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "i",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@757@F@SYS_Run@i",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "i",
-    "location": {
-      "column": "12",
-      "line": "28",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "i",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@908@F@SYS_Run@i",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "i",
-    "location": {
-      "column": "12",
-      "line": "35",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "i",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@1059@F@SYS_Run@i",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "i",
-    "location": {
-      "column": "12",
-      "line": "42",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "i",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@Convert2Number",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "unsigned long Convert2Number(char *)",
-    "location": {
-      "column": "15",
-      "line": "62",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "Convert2Number",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@1604@F@Convert2Number@vrsc_A",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "vrsc_A",
-    "location": {
-      "column": "8",
-      "line": "63",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "vrsc_A",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@1620@F@Convert2Number@Return",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "Return",
-    "location": {
-      "column": "17",
-      "line": "64",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "Return",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:SYS.c@1656@F@Convert2Number@i",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "i",
-    "location": {
-      "column": "12",
-      "line": "66",
-      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
-    },
-    "name": "i",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
     "ID": "c:stdio.h@99@macro@_STDIO",
     "What": "MacroDef",
     "defdec": "Def",
@@ -33968,6 +33716,202 @@
     },
     "name": "putchar",
     "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@Convert2Number",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "unsigned long Convert2Number(char *)",
+    "location": {
+      "column": "15",
+      "line": "3",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "Convert2Number",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SYS_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SYS_Init(void)",
+    "location": {
+      "column": "6",
+      "line": "5",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "SYS_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SYS_Run",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SYS_Run(void)",
+    "location": {
+      "column": "6",
+      "line": "10",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "SYS_Run",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:SYS.c@134@F@SYS_Run@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "7",
+      "line": "12",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "i",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:SYS.c@148@F@SYS_Run@mem",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "mem",
+    "location": {
+      "column": "10",
+      "line": "13",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "mem",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:SYS.c@167@F@SYS_Run@json",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "json",
+    "location": {
+      "column": "17",
+      "line": "14",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "json",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:SYS.c@243@F@SYS_Run@Number1",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "Number1",
+    "location": {
+      "column": "8",
+      "line": "15",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "Number1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:SYS.c@306@F@SYS_Run@Number2",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "Number2",
+    "location": {
+      "column": "8",
+      "line": "16",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "Number2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:SYS.c@369@F@SYS_Run@Number3",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "Number3",
+    "location": {
+      "column": "8",
+      "line": "17",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "Number3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:SYS.c@432@F@SYS_Run@Number4",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "Number4",
+    "location": {
+      "column": "8",
+      "line": "18",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "Number4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@Convert2Number",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "unsigned long Convert2Number(char *)",
+    "location": {
+      "column": "15",
+      "line": "61",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "Convert2Number",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:SYS.c@1504@F@Convert2Number@vrsc_A",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "vrsc_A",
+    "location": {
+      "column": "8",
+      "line": "62",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "vrsc_A",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:SYS.c@1520@F@Convert2Number@Return",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "Return",
+    "location": {
+      "column": "17",
+      "line": "63",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "Return",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:SYS.c@1556@F@Convert2Number@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "12",
+      "line": "65",
+      "path": "D:\\2020\\thang_3\\breadboard\\Breadboad_Stm8\\breadboard_stm8\\USER\\SYS.c"
+    },
+    "name": "i",
+    "origin": "project_file",
     "scope": null
   },
   {

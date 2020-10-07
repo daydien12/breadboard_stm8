@@ -75,11 +75,13 @@ void UART_Send_String(char *_varString)
         _varString++;
     }
 }
+
 void UART_Send_Number(int _varNumber)
 {
   sprintf(Number,"%d.",_varNumber);
   UART_Send_String(Number);
 }
+
 void UART_Send_Array_RX(void)
 {
   UART_Send_String(RRX);
@@ -104,7 +106,7 @@ INTERRUPT_HANDLER(UART1_RX_IRQHandler, 18)
  {
    
      temp_char = UART1->DR;
-     if(temp_char!='\n')
+     if(temp_char!='!')
      {
        RRX[RXI] = temp_char;
        RXI++;

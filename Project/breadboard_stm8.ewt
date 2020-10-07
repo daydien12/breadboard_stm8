@@ -2154,6 +2154,15 @@
         </settings>
     </configuration>
     <group>
+        <name>Json</name>
+        <file>
+            <name>$PROJ_DIR$\..\USER\tiny-json.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\USER\tiny-json.h</name>
+        </file>
+    </group>
+    <group>
         <name>lib</name>
         <file>
             <name>$PROJ_DIR$\..\library\stm8s.h</name>
